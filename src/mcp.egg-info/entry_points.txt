@@ -1,0 +1,2 @@
+[console_scripts]
+mcp-api = mcp.api.context_api:run_server
